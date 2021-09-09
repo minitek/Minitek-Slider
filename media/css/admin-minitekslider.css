@@ -12,8 +12,8 @@
 
 /* Dashboard */
 
-body.com_minitekslider.view- #subhead,
-body.com_minitekslider.view-dashboard #subhead {
+body.com_minitekslider.view- #subhead-container,
+body.com_minitekslider.view-dashboard #subhead-container {
   display: none;
 }
 

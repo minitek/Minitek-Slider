@@ -6,7 +6,7 @@ A powerful responsive slider for Joomla.
 
 ## Documentation
 
-[https://www.minitek.gr/support/documentation/joomla/minitek-slider-j4](https://www.minitek.gr/support/documentation/joomla/minitek-slider-j4)
+[https://www.minitek.gr/support/documentation/joomla/minitek-slider](https://www.minitek.gr/support/documentation/joomla/minitek-slider)
 
 ## License
 

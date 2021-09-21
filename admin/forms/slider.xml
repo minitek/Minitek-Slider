@@ -12,6 +12,7 @@
 				extension="com_minitekslider"
 				view="slider"
 				useglobal="false"
+				class="form-select"
 				label="COM_MINITEKSLIDER_FIELD_TEMPLATE_OVERRIDE_LABEL"
 				description="COM_MINITEKSLIDER_FIELD_TEMPLATE_OVERRIDE_DESC"
 			/>
@@ -280,7 +281,7 @@
 
 			<field
 				name="slider_db_color"
-				type="list"
+				type="radio"
 				default="light-text"
 				label="COM_MINITEKSLIDER_FIELD_DETAIL_BOX_TEXT_COLOR_LABEL"
 				description="COM_MINITEKSLIDER_FIELD_DETAIL_BOX_TEXT_COLOR_DESC"
@@ -489,7 +490,7 @@
 
 			<field
 				name="slider_hb_text_color"
-				type="list"
+				type="radio"
 				default="2"
 				label="COM_MINITEKSLIDER_FIELD_HOVER_BOX_TEXT_COLOR_LABEL"
 				description="COM_MINITEKSLIDER_FIELD_HOVER_BOX_TEXT_COLOR_DESC"
@@ -837,7 +838,7 @@
 				type="color"
 				default="#525a80"
 				label="COM_MINITEKSLIDER_FIELD_PROGRESS_BAR_COLOR_LABEL"
-				description="COM_MINITEKSLIDER_FIELD_PROGRESS_BAR_COLOR_LABEL"
+				description="COM_MINITEKSLIDER_FIELD_PROGRESS_BAR_COLOR_DESC"
 			/>
 
 			<field type="separator" text="COM_MINITEKSLIDER_FIELD_NAVIGATION_NAVIGATOR_SEPARATOR" />
